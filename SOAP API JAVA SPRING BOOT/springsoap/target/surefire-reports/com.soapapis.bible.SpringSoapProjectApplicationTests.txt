@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.soapapis.bible.SpringSoapProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 95.376 s - in com.soapapis.bible.SpringSoapProjectApplicationTests
